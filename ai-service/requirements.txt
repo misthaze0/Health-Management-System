@@ -1,0 +1,42 @@
+# FastAPI框架
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# 配置管理
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# HTTP客户端
+httpx==0.26.0
+
+# OpenAI SDK (用于Kimi API)
+openai==1.10.0
+
+# 日志
+loguru==0.7.2
+
+# 数据库
+aiomysql==0.2.0
+PyMySQL==1.1.0
+
+# 工具库
+python-multipart==0.0.6
+
+# 向量数据库
+pymilvus>=2.3.0
+
+# 向量化模型
+sentence-transformers>=2.2.0
+
+# 语音合成
+edge-tts>=6.1.0
+
+# 语音识别
+SpeechRecognition>=3.10.0
+
+# 文档生成
+python-docx>=1.1.0
+markdown>=3.5.0
+
+# 工作流
+networkx>=3.0
